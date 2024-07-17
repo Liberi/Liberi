@@ -2,7 +2,7 @@
 > [!NOTE]
 > Я являюсь начинающим разработчиком в IT сфере. Поэтому на данный момент обучаюсь в этом направлении. Иногда на досуге программирую (обычно на **C#**) или изучаю области системного администрирования (естественно при этом имеются знания о **устройстве ПК**).
 > Изучал область разработки игр на **Unity**, также имеются знания в разработке приложений для Windows (**WinForm**). Базы данных как из неотъемлемая часть тоже не осталась в стороне, на данный момент создаю последние в **SQL Server**.
-> В последнее время изучаю область **Web** разработки используя **Html и CSS**.
+> В последнее время изучаю область **Web** разработки используя **Html и CSS**, а так-же разрабатываю приложения на **React-native**.
 ![МоеЛогоGit](https://github.com/Liberi/Liberi/assets/130091860/8fa705d8-7cfa-4dfc-80d4-8ed22eff985d)
 
 ---
@@ -16,6 +16,13 @@
 >![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 >![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
+
+>![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+>![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+>![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+>![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+>![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+<!-- >![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) I'm not ready yet...  -->
 
 <!-- Social networks -->
 ## Мои контакты:
