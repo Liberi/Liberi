@@ -53,3 +53,5 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Liberi&theme=github_dark">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Liberi&theme=github_dark">
 </div>
+
+![PROFILE_VIEWS](https://komarev.com/ghpvc/?username=Liberi&style=flat-square&label=Увидели+=>&color=yellowgreen)
